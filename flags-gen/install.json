@@ -1,0 +1,7 @@
+{
+    "id": "flags-gen",
+    "version": "0.1.0",
+    "plugins": [
+        "flags.py"
+    ]
+}
